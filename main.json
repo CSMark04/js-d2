@@ -1,0 +1,40 @@
+{
+    "ToDo": [
+        {
+            "title": "Clean",
+            "description": "clean the living room",
+            "tasks": {
+                "vacuum": 2,
+                "sweep": 4,
+                "mop": 6
+            }
+        },
+        {
+            "title": "Take Trash out",
+            "description": "Put recycling bin and trash bin by the curb",
+            "tasks": {
+                "walking": 2,
+                "smell": 4,
+                "heat": 6
+            }
+        },
+        {
+            "title": "Feed pet",
+            "description": "refill the pet's food container",
+            "tasks": {
+                "open heavy bag": 2,
+                "clean container": 4,
+                "refill": 6
+            }
+        },
+        {
+            "title": "play val",
+            "description": "try not to bottom frag",
+            "tasks": {
+                "hold site": 2,
+                "win gunfights": 4,
+                "have iq": 6
+            }
+        }
+    ]
+}
